@@ -2,6 +2,7 @@ package one.digitalinnovation.beerstock.entity;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
+import lombok.EqualsAndHashCode;
 import lombok.NoArgsConstructor;
 import one.digitalinnovation.beerstock.enums.BeerType;
 
